@@ -21,6 +21,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     - [OS X Forensics](#os-x-forensics)
     - [Mobile Forensics](#mobile-forensics)
     - [Docker Forensics](#docker-forensics)
+    - [Email Forensics](#email-forensics)
     - [Internet Artifacts](#internet-artifacts)
     - [Timeline Analysis](#timeline-analysis)
     - [Disk image handling](#disk-image-handling)
@@ -198,6 +199,10 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - :zzz: [dof (Docker Forensics Toolkit)](https://github.com/docker-forensics-toolkit/toolkit) - Extracts and interprets forensic artifacts from disk images of Docker Host systems
 - :package: [Docker Explorer](https://github.com/google/docker-explorer) - Extracts and interprets forensic artifacts from disk images of Docker Host systems
+
+### Email Forensics
+
+- [Email Header Analyzer](https://rafaelpfister.ch/en/tools/header-analyzer) - Browser-only email header analysis (nothing is uploaded): Received chain with per-hop transit times, SPF/DKIM/DMARC results and alignment, ARC and spam-filter fields.
 
 ### Internet Artifacts
 
